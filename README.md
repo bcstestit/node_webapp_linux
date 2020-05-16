@@ -1,7 +1,3 @@
-| Language | Framework | Platform | Site |
-| -------- | -------- |--------|--------|
-| Nodejs |  | Azure Web App, Virtual Machine| ghatestappsb3 |
-
 
 # Nodejs web application
 
